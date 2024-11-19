@@ -65,7 +65,11 @@ Or add this line at the beginning of your Python script:
 import os
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
 ```
+## References
 
+For more information about Docling and its features, check out the official documentation: [Docling Documentation](https://github.com/DS4SD/docling).
+
+```
 @techreport{Docling,
   author = {Deep Search Team},
   month = {8},
@@ -76,3 +80,4 @@ os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
   version = {1.0.0},
   year = {2024}
 }
+```
