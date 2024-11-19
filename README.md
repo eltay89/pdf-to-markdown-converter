@@ -28,7 +28,7 @@ This project is a simple GUI application that converts PDF files to Markdown for
 2. Install the required packages:
 
    ```bash
-   pip install torch
+   pip3 install torch torchvision torchaudio  #CPU - Only
    pip install tk
    pip install docling
    ```
